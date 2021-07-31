@@ -1,0 +1,68 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "D73F7A6E-4",
+    "build_number": 4,
+    "build_time": 1627629000970,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "阿伟的假期全自动脚本",
+    "stableMode": false
+  },
+  "main": "阿伟的假期主界面 - YishangLovesPikachu.js",
+  "name": "阿伟的假期全自动脚本",
+  "optimization": {
+    "removeAccessibilityService": false,
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "aweidejiaqi.yishang.lovepikachu",
+  "permissionConfig": {
+    "manifestPermissions": [
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BIND_CELL_BROADCAST_SERVICE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.REORDER_TASKS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.PERSISTENT_ACTIVITY"
+    ],
+    "requestListOnStartup": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  },
+  "publish": {
+    "category": "游戏辅助",
+    "details": "目前属于试行阶段，请勿随意下载。",
+    "maxAutoJsVersion": -1,
+    "maxProVersion": 8089999,
+    "minAutoJsVersion": -1,
+    "minProVersion": 8080000,
+    "minSdkVersion": 0,
+    "permissions": [],
+    "summary": "阿伟的假期全自动脚本",
+    "tags": []
+  },
+  "scripts": {},
+  "signingConfig": {
+    "alias": "Yishang",
+    "keystore": "/storage/emulated/0/脚本/.keystore/lovepikachu.jks",
+    "uuid": "2a53af85-dfbd-46d5-8a67-33c3f99b1b39"
+  },
+  "versionCode": 1,
+  "versionName": "1.0.1"
+}
