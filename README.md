@@ -12,6 +12,8 @@
 
 Github开源：https://github.com/wojiaoyishang/awdjq-Auto 
 
+下载点击这个链接：https://gitee.com/wojiaoyishang/awdjq-Auto/attach_files/788247/download/%E9%98%BF%E4%BC%9F%E7%9A%84%E5%81%87%E6%9C%9F%E5%85%A8%E8%87%AA%E5%8A%A8%E8%84%9A%E6%9C%AC_v1.0.1.apk
+
 #### 软件架构
  **文件夹**
  
